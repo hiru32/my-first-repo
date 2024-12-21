@@ -1,1 +1,3 @@
-print("hello")
+# hello.py
+print("Hello, GitHub!")
+
